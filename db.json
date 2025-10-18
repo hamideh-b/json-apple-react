@@ -1,0 +1,1706 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Store",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "shop",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop the Latest"
+                },
+                {
+                  "id": 2,
+                  "name": "Mac"
+                },
+                {
+                  "id": 3,
+                  "name": "iPad"
+                },
+                {
+                  "id": 4,
+                  "name": "iPhone"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Watch"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Vision Pro"
+                },
+                {
+                  "id": 7,
+                  "name": "Accessories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Quick Links",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Find a Store"
+                },
+                {
+                  "id": 2,
+                  "name": "Order Status"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 4,
+                  "name": "Financing"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Watch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop Special Stores",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Certified Refurbished"
+                },
+                {
+                  "id": 2,
+                  "name": "Education"
+                },
+                {
+                  "id": 3,
+                  "name": "Business"
+                },
+                {
+                  "id": 4,
+                  "name": "Veterans and Military"
+                },
+                {
+                  "id": 5,
+                  "name": "Government"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Mac",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "MacBook Air"
+                },
+                {
+                  "id": 2,
+                  "name": "MacBook Pro"
+                },
+                {
+                  "id": 3,
+                  "name": "iMac"
+                },
+                {
+                  "id": 4,
+                  "name": "Mac mini"
+                },
+                {
+                  "id": 5,
+                  "name": "Mac Studio"
+                },
+                {
+                  "id": 6,
+                  "name": "Mac Pro"
+                },
+                {
+                  "id": 7,
+                  "name": "Displays"
+                },
+                {
+                  "id": 8,
+                  "name": "Compare Mac"
+                },
+                {
+                  "id": 9,
+                  "name": "Switch from PC to Mac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop Mac",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop Mac"
+                },
+                {
+                  "id": 2,
+                  "name": "Help Me Choose"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 5,
+                  "name": "Financing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from Mac",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Mac Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+ for Mac"
+                },
+                {
+                  "id": 3,
+                  "name": "macOS Sequoia"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Intelligencey"
+                },
+                {
+                  "id": 5,
+                  "name": "Apps by Apple"
+                },
+                {
+                  "id": 6,
+                  "name": "Continuity"
+                },
+                {
+                  "id": 7,
+                  "name": "iCloud+"
+                },
+                {
+                  "id": 8,
+                  "name": "Mac for Business"
+                },
+                {
+                  "id": 9,
+                  "name": "Education"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "iPad",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore iPad",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore All iPad"
+                },
+                {
+                  "id": 2,
+                  "name": "iPad ProMac"
+                },
+                {
+                  "id": 3,
+                  "name": "iPad Air"
+                },
+                {
+                  "id": 4,
+                  "name": "iPad-11"
+                },
+                {
+                  "id": 5,
+                  "name": "iPad mini"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Pencil"
+                },
+                {
+                  "id": 7,
+                  "name": "Keyboards"
+                },
+                {
+                  "id": 8,
+                  "name": "Compare iPad"
+                },
+                {
+                  "id": 9,
+                  "name": "Why iPad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop iPad",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop iPad"
+                },
+                {
+                  "id": 2,
+                  "name": "iPad Accessories"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 4,
+                  "name": "Financing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from iPad",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "iPad Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+ for iPad"
+                },
+                {
+                  "id": 3,
+                  "name": "iPadOS 18"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Intelligence"
+                },
+                {
+                  "id": 5,
+                  "name": "Apps by Apple"
+                },
+                {
+                  "id": 6,
+                  "name": "iCloud+"
+                },
+                {
+                  "id": 7,
+                  "name": "Education"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "iPhone",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore iPhone",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore All iPhone"
+                },
+                {
+                  "id": 2,
+                  "name": "iPhone 16 Pro"
+                },
+                {
+                  "id": 3,
+                  "name": "iPhone 16"
+                },
+                {
+                  "id": 4,
+                  "name": "iPhone 16e"
+                },
+                {
+                  "id": 5,
+                  "name": "iPhone 15"
+                },
+                {
+                  "id": 6,
+                  "name": "Compare iPhone"
+                },
+                {
+                  "id": 7,
+                  "name": "Switch from Android"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop iPhone",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop iPhone"
+                },
+                {
+                  "id": 2,
+                  "name": "iPhone Accessories"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 4,
+                  "name": "Carrier Deals at Apple"
+                },
+                {
+                  "id": 5,
+                  "name": "Financing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from iPhone",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "iPhone Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+ for iPhone"
+                },
+                {
+                  "id": 3,
+                  "name": "iOS 18"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Intelligence"
+                },
+                {
+                  "id": 5,
+                  "name": "Apps by Apple"
+                },
+                {
+                  "id": 6,
+                  "name": "iPhone Privacy"
+                },
+                {
+                  "id": 7,
+                  "name": "iCloud+"
+                },
+                {
+                  "id": 8,
+                  "name": "Wallet, Pay, Card"
+                },
+                {
+                  "id": 9,
+                  "name": "Siri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Watch",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Watch",
+              "ul": [
+                {
+                  "id": 2,
+                  "name": "Explore All Apple Watch"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Watch Series 10"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Watch Ultra 2"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Watch SE"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Watch Nike"
+                },
+                {
+                  "id": 7,
+                  "name": "Apple Watch Hermès"
+                },
+                {
+                  "id": 8,
+                  "name": "Compare Watch"
+                },
+                {
+                  "id": 9,
+                  "name": "Why Apple Watch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop Watch",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop Apple Watch"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple Watch Studio"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Watch Bands"
+                },
+                {
+                  "id": 4,
+                  "name": "apple watch accessories"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Trade In"
+                },
+                {
+                  "id": 6,
+                  "name": "Financing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from Watch",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Apple Watch Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+"
+                },
+                {
+                  "id": 3,
+                  "name": "watchOS 11"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Watch For Your Kids"
+                },
+                {
+                  "id": 5,
+                  "name": "Apps by Apple"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Fitness+"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Vision",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Vision",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore Apple Vision Pro"
+                },
+                {
+                  "id": 2,
+                  "name": "Guided Tour"
+                },
+                {
+                  "id": 3,
+                  "name": "Tech Specs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop Vision",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop Apple Vision Pro"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple Vision Pro Accessories"
+                },
+                {
+                  "id": 3,
+                  "name": "Financing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from Vision",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Apple Vision Pro Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+"
+                },
+                {
+                  "id": 3,
+                  "name": "visionOS 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "AirPods",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore AirPods",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore All AirPods"
+                },
+                {
+                  "id": 2,
+                  "name": "AirPods 4"
+                },
+                {
+                  "id": 3,
+                  "name": "AirPods Pro 2"
+                },
+                {
+                  "id": 4,
+                  "name": "AirPods Max"
+                },
+                {
+                  "id": 5,
+                  "name": "Compare AirPods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop AirPods",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop AirPods"
+                },
+                {
+                  "id": 2,
+                  "name": "AirPods Accessories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from AirPods",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "AirPods Support"
+                },
+                {
+                  "id": 2,
+                  "name": "AppleCare+ for Headphones"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple Music"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Tv & Home",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "shop",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore TV & Home"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple TV 4K"
+                },
+                {
+                  "id": 3,
+                  "name": "HomePod"
+                },
+                {
+                  "id": 4,
+                  "name": "HomePod mini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop TV & Home",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop Apple TV 4K"
+                },
+                {
+                  "id": 2,
+                  "name": "Shop HomePod"
+                },
+                {
+                  "id": 3,
+                  "name": "Shop HomePod mini"
+                },
+                {
+                  "id": 4,
+                  "name": "Shop Siri Remote"
+                },
+                {
+                  "id": 5,
+                  "name": "TV & Home Accessories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "More from TV & Home",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": " Apple TV Support"
+                },
+                {
+                  "id": 2,
+                  "name": "HomePod Support"
+                },
+                {
+                  "id": 3,
+                  "name": "AppleCare+"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple TV app"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple TV+"
+                },
+                {
+                  "id": 6,
+                  "name": "Home app"
+                },
+                {
+                  "id": 7,
+                  "name": "Apple Music"
+                },
+                {
+                  "id": 8,
+                  "name": "Siri"
+                },
+                {
+                  "id": 9,
+                  "name": "AirPlay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Entertainment",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Entertainment",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Explore Entertainment"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple One"
+                },
+                {
+                  "id": 3,
+                  "name": "Apple TV+"
+                },
+                {
+                  "id": 4,
+                  "name": "Apple Music"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Arcade"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Fitness+"
+                },
+                {
+                  "id": 7,
+                  "name": "Apple News+"
+                },
+                {
+                  "id": 8,
+                  "name": "Apple Podcasts"
+                },
+                {
+                  "id": 9,
+                  "name": "Apple Books"
+                },
+                {
+                  "id": 10,
+                  "name": "App Store"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Support",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Apple TV+ Support"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple Music Support"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Accessories",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Shop Accessories",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Shop All Accessories"
+                },
+                {
+                  "id": 2,
+                  "name": "Mac"
+                },
+                {
+                  "id": 3,
+                  "name": "iPad"
+                },
+                {
+                  "id": 4,
+                  "name": "iPhone"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Watch"
+                },
+                {
+                  "id": 6,
+                  "name": "Apple Vision Pro"
+                },
+                {
+                  "id": 7,
+                  "name": "AirPods"
+                },
+                {
+                  "id": 8,
+                  "name": "TV & Home"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Accessories",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Made by Apple"
+                },
+                {
+                  "id": 2,
+                  "name": "Beats by Dr. Dre"
+                },
+                {
+                  "id": 3,
+                  "name": "AirTag"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Support",
+      "subMenu": [
+        {
+          "id": 1,
+          "column": [
+            {
+              "id": 1,
+              "title": "Explore Support",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "iPhone"
+                },
+                {
+                  "id": 2,
+                  "name": "Mac"
+                },
+                {
+                  "id": 3,
+                  "name": "iPad"
+                },
+                {
+                  "id": 4,
+                  "name": "Watch"
+                },
+                {
+                  "id": 5,
+                  "name": "Apple Vision Pro"
+                },
+                {
+                  "id": 6,
+                  "name": "AirPods"
+                },
+                {
+                  "id": 7,
+                  "name": "Music"
+                },
+                {
+                  "id": 8,
+                  "name": "TV"
+                },
+                {
+                  "id": 9,
+                  "name": "Explore Support"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "column": [
+            {
+              "id": 1,
+              "title": "Get Help",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Community"
+                },
+                {
+                  "id": 2,
+                  "name": "Check Coverage"
+                },
+                {
+                  "id": 3,
+                  "name": "Repair"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "column": [
+            {
+              "id": 1,
+              "title": "Helpful Topics",
+              "ul": [
+                {
+                  "id": 1,
+                  "name": "Get AppleCare+"
+                },
+                {
+                  "id": 2,
+                  "name": "Apple Account and Password"
+                },
+                {
+                  "id": 3,
+                  "name": "Billing & Subscriptions"
+                },
+                {
+                  "id": 4,
+                  "name": "Accessibility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hero": [
+    {
+      "id": 1,
+      "product": "iphone-pro-16",
+      "title": "iPhone 16 pro",
+      "topDescription": "hello, apple intelligence",
+      "bottomDescription": "Apple Intelligence coming this fall",
+      "more": "Learn more",
+      "buy": "buy"
+    },
+    {
+      "id": 2,
+      "product": "iphone-16",
+      "title": "iPhone 16 ",
+      "topDescription": "hello, apple intelligence",
+      "bottomDescription": "Apple Intelligence coming this fall",
+      "more": "Learn more",
+      "buy": "buy"
+    },
+    {
+      "id": 3,
+      "product": "watch-10",
+      "logo": "watch-logo",
+      "more": "Learn more",
+      "buy": "buy"
+    }
+  ],
+  "promo": [
+    {
+      "id": 1,
+      "product": "airpod-promo",
+      "title": "AirPods 4",
+      "description": "Iconic. Now supersonic.&nbsp; Available with Active Noise Cancellation.",
+      "more": "Learn more",
+      "buy": "buy",
+      "justifyContent": "justify-content-end"
+    },
+    {
+      "id": 2,
+      "product": "airpod-pro-promo",
+      "title": "AirPods Pro",
+      "description": "Hearing&nbsp;Aid and Hearing&nbsp;Test features coming with a free software update this fall.",
+      "more": "Learn more",
+      "buy": "buy",
+      "justifyContent": "justify-content-end"
+    },
+    {
+      "id": 3,
+      "product": "promo-ipad-mini",
+      "title": "iPad mini",
+      "description": "Hello, Apple Intelligence.",
+      "more": "Learn more",
+      "buy": "pre-order",
+      "px4": "px-4",
+      "intelligenceDescription": "Apple Intelligence coming this fall"
+    },
+    {
+      "id": 4,
+      "product": "watch-ultra",
+      "logo": "watch-ultra-logo",
+      "description": "New finish. Never quit.",
+      "more": "Learn more",
+      "buy": "buy",
+      "justifyContent": "justify-content-start",
+      "textColor": "text-white"
+    },
+    {
+      "id": 5,
+      "product": "iphone-tradeIn",
+      "logo": "iphone-tradeIn-logo",
+      "description": "Get $180-$650 in credit when you trade in iPhone 12 or higher.",
+      "more": "Get your estimate",
+      "justifyContent": "justify-content-start",
+      "textColor": "text-black"
+    },
+    {
+      "id": 6,
+      "product": "card-promo",
+      "logo": "card-promo-logo",
+      "description": "Get up to 3% Daily Cash back with every purchase.",
+      "more": "Learn more",
+      "buy": "Apply now",
+      "justifyContent": "justify-content-start",
+      "textColor": "text-black"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "srcset1": "/slider/274x593(0).jpg",
+      "srcset2": "/slider/689x387(0).jpg",
+      "srcset3": "/slider/980x551(0).jpg",
+      "img": "/slider/1250x703(0).jpg",
+      "title": "Comedy",
+      "description": " A second chance is never simple.",
+      "button": "Stream now",
+      "slideTarget": "#slide1"
+    },
+    {
+      "id": 2,
+      "srcset1": "/slider/274x593(1).jpg",
+      "srcset2": "/slider/689x387(1).jpg",
+      "srcset3": "/slider/980x551(1).jpg",
+      "img": "/slider/1250x703(1).jpg",
+      "title": "Comedy",
+      "description": " A heartfelt comedy about life.",
+      "button": "Stream now",
+      "slideTarget": "#slide2"
+    },
+    {
+      "id": 3,
+      "srcset1": "/slider/274x593(2).jpg",
+      "srcset2": "/slider/689x387(2).jpg",
+      "srcset3": "/slider/980x551(2).jpg",
+      "img": "/slider/1250x703(2).jpg",
+      "title": "",
+      "description": "Watch every club, every match.",
+      "button": "See the schedule",
+      "slideTarget": "#slide3"
+    },
+    {
+      "id": 4,
+      "srcset1": "/slider/274x593(3).jpg",
+      "srcset2": "/slider/689x387(3).jpg",
+      "srcset3": "/slider/980x551(3).jpg",
+      "img": "/slider/1250x703(3).jpg",
+      "title": "Drama",
+      "description": " Live your best lie.",
+      "button": "Stream now",
+      "slideTarget": "#slide4"
+    },
+    {
+      "id": 5,
+      "srcset1": "/slider/274x593(4).jpg",
+      "srcset2": "/slider/689x387(4).jpg",
+      "srcset3": "/slider/980x551(4).jpg",
+      "img": "/slider/1250x703(4).jpg",
+      "title": "Thriller",
+      "description": " There’s more to work than life.",
+      "button": "Stream now",
+      "slideTarget": "#slide5"
+    },
+    {
+      "id": 6,
+      "srcset1": "/slider/274x593(5).jpg",
+      "srcset2": "/slider/689x387(5).jpg",
+      "srcset3": "/slider/980x551(5).jpg",
+      "img": "/slider/1250x703(5).jpg",
+      "title": "Drama",
+      "description": " Live your best lie.",
+      "button": "Stream now",
+      "slideTarget": "#slide6"
+    },
+    {
+      "id": 7,
+      "srcset1": "/slider/274x593(6).jpg",
+      "srcset2": "/slider/689x387(6).jpg",
+      "srcset3": "/slider/980x551(6).jpg",
+      "img": "/slider/1250x703(6).jpg",
+      "title": "Comedy",
+      "description": " A second chance is never simple.",
+      "button": "Stream now",
+      "slideTarget": "#slide7"
+    },
+    {
+      "id": 8,
+      "srcset1": "/slider/274x593(7).jpg",
+      "srcset2": "/slider/689x387(7).jpg",
+      "srcset3": "/slider/980x551(7).jpg",
+      "img": "/slider/1250x703(7).jpg",
+      "title": "Action",
+      "description": "   It’s only a legend until you discover it. ",
+      "button": "Stream now",
+      "slideTarget": "#slide8"
+    },
+    {
+      "id": 9,
+      "srcset1": "/slider/274x593(8).jpg",
+      "srcset2": "/slider/689x387(8).jpg",
+      "srcset3": "/slider/980x551(8).jpg",
+      "img": "/slider/1250x703(8).jpg",
+      "title": "Comedy",
+      "description": " A second chance is never simple.",
+      "button": "Stream now",
+      "slideTarget": "#slide9"
+    },
+    {
+      "id": 10,
+      "srcset1": "/slider/274x593(9).jpg",
+      "srcset2": "/slider/689x387(9).jpg",
+      "srcset3": "/slider/980x551(9).jpg",
+      "img": "/slider/1250x703(9).jpg",
+      "title": "Comedy",
+      "description": " A second chance is never simple.",
+      "button": "Stream now",
+      "slideTarget": "#slide10"
+    }
+  ],
+  "footerInfo": [
+    {
+      "id": 1,
+      "li": "1. Apple Intelligence is available in beta on all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later, with Siri and device language set to U.S. English, as part of an iOS 18, iPadOS 18, and macOS Sequoia update. English (Australia, Canada, Ireland, New Zealand, South Africa, UK) language support available this December. Some features, additional platforms, and support for additional languages, like Chinese, English (India, Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, Vietnamese, and others, will be coming over the course of the next year."
+    },
+    {
+      "id": 2,
+      "li": "Hearing Aid and Hearing Test: The Hearing Aid feature has received FDA authorization. The Hearing Test and Hearing Aid features are supported on AirPods Pro 2 with the latest firmware paired with a compatible iPhone or iPad with iOS 18 or iPadOS 18 and later and are intended for people 18 years old or older. The Hearing Aid feature is also supported on a compatible Mac with macOS Sequoia and later. It is intended for people with perceived mild to moderate hearing loss.<br /><br /> Hearing Protection: The Hearing Protection feature works with AirPods Pro 2 with the latest firmware when paired with a compatible iPhone, iPad, or Mac with iOS 18, iPadOS 18, or macOS Sequoia and later. Feature is only available in the U.S. and Canada. See  <a href='#' class='text-dark'>support.apple.com/120850</a> for total attenuation and more information. The Hearing Protection feature is not suitable for protection against extremely loud impulse sounds, such as gunfire, fireworks, or jackhammers, or against sustained sounds louder than 110 dBA."
+    },
+    {
+      "id": 3,
+      "li": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply. "
+    },
+    {
+      "id": 4,
+      "li": "To access and use all Apple Card features and products available only to Apple Card users, you must add Apple Card to Wallet on an iPhone or iPad that supports and has the latest version of iOS or iPadOS. Apple Card is subject to credit approval, available only for qualifying applicants in the United States, and issued by Goldman Sachs Bank USA, Salt Lake City Branch."
+    },
+    {
+      "id": 5,
+      "li": "If you reside in the U.S. territories, please call Goldman Sachs at 877-255-5923 with questions about Apple Card."
+    },
+    {
+      "id": 6,
+      "li": "Learn more about how Apple Card applications are evaluated at <a href='#' class='text-dark'>support.apple.com/kb/HT209218</a> "
+    },
+    {
+      "id": 7,
+      "li": "A subscription is required for Apple TV+. "
+    },
+    {
+      "id": 8,
+      "li": "A subscription is required for Apple Arcade, Apple Fitness+, and Apple Music."
+    },
+    {
+      "id": 9,
+      "li": "Features are subject to change. Some features, applications, and services may not be available in all regions or all languages."
+    }
+  ],
+  "footerNav": [
+    {
+      "id": 1,
+      "columnSection": [
+        {
+          "id": 1,
+          "title": "Shop and Learn",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Store"
+            },
+            {
+              "id": 2,
+              "name": "Mac"
+            },
+            {
+              "id": 3,
+              "name": "iPad"
+            },
+            {
+              "id": 4,
+              "name": "iPhone"
+            },
+            {
+              "id": 5,
+              "name": "AirPods"
+            },
+            {
+              "id": 6,
+              "name": "TV & Home"
+            },
+            {
+              "id": 7,
+              "name": "AirTag"
+            },
+            {
+              "id": 8,
+              "name": "Accessories"
+            },
+            {
+              "id": 9,
+              "name": "Gift Cards"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Apple Wallet",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Wallet"
+            },
+            {
+              "id": 2,
+              "name": "Apple Card"
+            },
+            {
+              "id": 3,
+              "name": "Apple Pay"
+            },
+            {
+              "id": 4,
+              "name": "Apple Cash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "columnSection": [
+        {
+          "id": 1,
+          "title": "Account",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Manage Your Apple Account"
+            },
+            {
+              "id": 2,
+              "name": "apple store account"
+            },
+            {
+              "id": 3,
+              "name": "iCloud.com"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Entertainment",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Apple One"
+            },
+            {
+              "id": 2,
+              "name": "Apple TV+"
+            },
+            {
+              "id": 3,
+              "name": "Apple Music"
+            },
+            {
+              "id": 4,
+              "name": "Apple Fitness"
+            },
+            {
+              "id": 5,
+              "name": "Apple News+"
+            },
+            {
+              "id": 6,
+              "name": "Apple Podcasts"
+            },
+            {
+              "id": 7,
+              "name": "Apple Books"
+            },
+            {
+              "id": 8,
+              "name": "Apple Store"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "columnSection": [
+        {
+          "id": 1,
+          "title": "Apple store",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Find a Store"
+            },
+            {
+              "id": 2,
+              "name": "Genius Bar"
+            },
+            {
+              "id": 3,
+              "name": "Today at Apple"
+            },
+            {
+              "id": 4,
+              "name": "Group Reservations"
+            },
+            {
+              "id": 5,
+              "name": "Apple Camp"
+            },
+            {
+              "id": 6,
+              "name": "Apple Store App"
+            },
+            {
+              "id": 7,
+              "name": "Certified Refurbished"
+            },
+            {
+              "id": 8,
+              "name": "Apple Trade In"
+            },
+            {
+              "id": 9,
+              "name": "Carrier Deals at Apple"
+            },
+            {
+              "id": 10,
+              "name": "Order Status"
+            },
+            {
+              "id": 11,
+              "name": "Shopping Help"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "columnSection": [
+        {
+          "id": 1,
+          "title": "For Business",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Apple and Business"
+            },
+            {
+              "id": 2,
+              "name": "Shop for Business"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "For Education",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Apple and Education"
+            },
+            {
+              "id": 2,
+              "name": "Shop for K-12"
+            },
+            {
+              "id": 3,
+              "name": "shop for college"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "For Healthcare",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Apple in Healthcare"
+            },
+            {
+              "id": 2,
+              "name": "Mac in Healthcare"
+            },
+            {
+              "id": 3,
+              "name": "Health on Apple Watch"
+            },
+            {
+              "id": 4,
+              "name": "Health Records on iPhone and iPad"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "For Government",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Shop for Government"
+            },
+            {
+              "id": 2,
+              "name": "Shop for Veterans and Military"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "columnSection": [
+        {
+          "id": 1,
+          "title": "Apple Values",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Accessibility"
+            },
+            {
+              "id": 2,
+              "name": "Education"
+            },
+            {
+              "id": 3,
+              "name": "Environment"
+            },
+            {
+              "id": 4,
+              "name": "Inclusion and Diversity"
+            },
+            {
+              "id": 5,
+              "name": "Privacy"
+            },
+            {
+              "id": 6,
+              "name": "Racial Equity and Justice"
+            },
+            {
+              "id": 7,
+              "name": "Supply Chain"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "About Apple",
+          "ul": [
+            {
+              "id": 1,
+              "name": "Newsroom"
+            },
+            {
+              "id": 2,
+              "name": "Apple Leadership"
+            },
+            {
+              "id": 3,
+              "name": "Career Opportunities"
+            },
+            {
+              "id": 4,
+              "name": "Investors"
+            },
+            {
+              "id": 5,
+              "name": "Events"
+            },
+            {
+              "id": 6,
+              "name": "Contact Apple"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footerbreadcrumb": [
+    {
+      "id": 1,
+      "name": "Privacy Policy"
+    },
+    {
+      "id": 2,
+      "name": "Terms of Use"
+    },
+    {
+      "id": 3,
+      "name": "Sales and Refunds"
+    },
+    {
+      "id": 4,
+      "name": "Legal"
+    },
+    {
+      "id": 5,
+      "name": "Site Map"
+    }
+  ]
+}
